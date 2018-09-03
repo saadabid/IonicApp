@@ -1,0 +1,60 @@
+/* Empty. Add your own CSS if you like */
+#mainDiv{
+    /* background-color: blue; */
+    background-image: radial-gradient(circle, #657cb6, #4765a5, #2e4c8a);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+#mainDiv > h1{
+    margin-top: 100px;
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 85px;
+}
+#inputFieldDiv{
+    text-align: center;
+}
+#inputFieldDiv .list-inset{
+    margin: 12px 38px 12px 38px
+}
+
+.btnLogin{
+    width: 80%;
+    margin-top: 15px;
+    color: white;
+    background-color: #243b71;
+    font-size: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.forgotPassCss{
+    margin-top: 12px;
+    font-size: 15px;
+    color: white;
+    letter-spacing: 1px;
+    font-weight: lighter;
+}
+.footertext{
+    font-size: 12px !important;
+    font-weight: normal !important;
+}
+
+.footertext>i{
+    float: right;
+    /* right: 8px; */
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #355492;
+    padding: 0px 12px 0px 12px;
+    letter-spacing: 2px;
+}
+
+.footercss{
+    background-color: transparent !important;
+    border: none !important;
+}
